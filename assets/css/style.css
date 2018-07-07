@@ -1,0 +1,29 @@
+#container {
+margin: auto;
+width: 50%; 
+text-align: center;
+}
+
+h1{
+text-align: center;
+}
+
+#image{  
+margin: auto;
+width: 50%; 
+text-align: center;
+}
+
+#gamearea{   
+margin: auto;
+width: 50%; 
+text-align: center;
+}
+
+#panel{
+text-align: center;    
+}
+
+#timer{
+text-align: center;
+}
