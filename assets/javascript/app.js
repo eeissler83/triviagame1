@@ -21,12 +21,12 @@ var questions = [{
     question: "Which is the largest city in Europe by population?",
     answers: ["Moscow", "Istanbul", "Paris", "London"],
     correctAnswer: "Istanbul",
-    image: "assets/images/Istanbul.jpg"
+    image: "assets/images/istanbul.jpg"
 }, {
     question: "Arnold Schwarzenegger was born in which country?",
     answers: ["Germany", "Luxemborg", "Austria", "Norway"],
     correctAnswer: "Austria",
-    image: "assets/images/Austria.jpg"
+    image: "assets/images/austria.jpg"
 }, {
     question: "Which country has the longest history of wine making?",
     answers: ["Italy", "France", "Spain", "Georgia"],
